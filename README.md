@@ -14,36 +14,36 @@
 
 ### 主页
 
-![](img/1.png)
+![](img/1.PNG)
 
 ### 城市页
 
-![](img/2.png)
+![](img/2.PNG)
 
 ### 商品详情页
 
-![](img/3.png)
+![](img/3.PNG)
 
 ### 登录页
 
-![](img/5.png)
+![](img/5.PNG)
 
 ### 个人主页
 
-![](img/6.png)
+![](img/6.PNG)
 
 ### 提交订单页面
 
-![](img/7.png)
+![](img/7.PNG)
 
 ### 店家详情页
 
-![](img/8.png)
+![](img/8.PNG)
 
 ### mock评论数据
 
-![](img/9.png)
+![](img/9.PNG)
 
 ### 按需加载效果
 
-![](img/10.png)
+![](img/10.PNG)
